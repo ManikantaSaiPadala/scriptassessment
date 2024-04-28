@@ -1,0 +1,17 @@
+.product-image{
+    margin-top: 30px;
+    width: 250px;
+    height: 400px;
+}
+/*.product-card{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid blueviolet;
+}*/
+
+.product-card{
+    margin: 10px;
+}

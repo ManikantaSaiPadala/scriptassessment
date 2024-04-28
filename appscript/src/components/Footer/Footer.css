@@ -1,0 +1,38 @@
+.footer-div{
+    background-color: black;
+    color: aqua;
+    padding: 10px;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+}
+.div2{
+    display: flex;
+    margin: 5px;
+}
+.hr-line{
+    border: 2px solid white;
+    width: 97%;
+    margin: 10px;
+}
+.inp-ele{
+    margin: 5px;
+}
+.ul-list1{
+    display: flex;
+    list-style-type: none;
+    flex-direction: column;
+
+}
+
+.below-foot{
+    display: flex;
+    justify-content: space-around;
+}
+.para{
+    text-align: center;
+}
+
